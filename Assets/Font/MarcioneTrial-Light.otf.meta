@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 073711b88f53e5043a5e37c91d8b552a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marcione Trial
+  fontNames:
+  - Marcione Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8551f288255a23e45b2830aa6cc8af02, type: 3}
+  - {fileID: 12800000, guid: 53dbb03d9b703a44788ed7254978bd7d, type: 3}
+  - {fileID: 12800000, guid: b258a37e1eb7daf4e8c2eb2b2a0e7734, type: 3}
+  - {fileID: 12800000, guid: 60e59bef39d49e342ad77954139831d2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
